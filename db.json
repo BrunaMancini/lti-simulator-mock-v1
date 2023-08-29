@@ -11,9 +11,10 @@
         "simulationResults": [
           {
             "year": "2018",
-            "plans": [
+            "programs": [
               {
-                "plan": "Spot",
+                "program": "Spot",
+                "planType": "Stock Options",
                 "startDate": "01-2021",
                 "endDate": "12-2023",
                 "stockPriceAtGrantDate": "30,00",
@@ -39,9 +40,10 @@
           },
           {
             "year": "2019",
-            "plans": [
+            "programs": [
               {
-                "plan": "Spot",
+                "program": "Spot",
+                "planType": "Stock Options",
                 "startDate": "01-2022",
                 "endDate": "12-2024",
                 "stockPriceAtGrantDate": "32,40",
@@ -64,7 +66,8 @@
                 ]
               },
               {
-                "plan": "Spot",
+                "program": "Spot",
+                "planType": "Stock Options",
                 "startDate": "01-2023",
                 "endDate": "12-2025",
                 "stockPriceAtGrantDate": "34,99",
@@ -90,9 +93,10 @@
           },
           {
             "year": "2020",
-            "plans": [
+            "programs": [
               {
-                "plan": "Stock Options",
+                "program": "Stock Options",
+                "planType": "Stock Options",
                 "startDate": "01-2023",
                 "endDate": "12-2025",
                 "stockPriceAtGrantDate": "34,99",
@@ -115,7 +119,8 @@
                 ]
               },
               {
-                "plan": "Spot",
+                "program": "Spot",
+                "planType": "Stock Options",
                 "startDate": "01-2024",
                 "endDate": "12-2026",
                 "stockPriceAtGrantDate": "37,79",
@@ -141,9 +146,10 @@
           },
           {
             "year": "2021",
-            "plans": [
+            "programs": [
               {
-                "plan": "Stock Options",
+                "program": "Stock Options",
+                "planType": "Stock Options",
                 "startDate": "01-2025",
                 "endDate": "12-2026",
                 "stockPriceAtGrantDate": "37,79",
@@ -162,7 +168,8 @@
                 ]
               },
               {
-                "plan": "Spot",
+                "program": "Spot",
+                "planType": "Stock Options",
                 "startDate": "01-2025",
                 "endDate": "12-2027",
                 "stockPriceAtGrantDate": "40,81",
@@ -185,7 +192,8 @@
                 ]
               },
               {
-                "plan": "Stock Options",
+                "program": "Stock Options",
+                "planType": "Stock Options",
                 "startDate": "01-2025",
                 "endDate": "12-2027",
                 "stockPriceAtGrantDate": "40,81",
@@ -211,9 +219,10 @@
           },
           {
             "year": "2022",
-            "plans": [
+            "programs": [
               {
-                "plan": "Ações restritas",
+                "program": "Ações restritas",
+                "planType": "Ações Restritas",
                 "startDate": "01-2025",
                 "endDate": "12-2027",
                 "stockPriceAtGrantDate": "",
@@ -236,7 +245,8 @@
                 ]
               },
               {
-                "plan": "Phantom Options",
+                "program": "Phantom Options",
+                "planType": "Phantom Options",
                 "startDate": "01-2025",
                 "endDate": "12-2027",
                 "stockPriceAtGrantDate": "40,81",
