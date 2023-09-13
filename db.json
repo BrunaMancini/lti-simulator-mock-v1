@@ -2,10 +2,11 @@
   "api": {
     "ltiSimulator": {
       "summary": {
-        "currentStockPrice": "63,54",
+        "currentStockPrice": "63.54",
         "vestingSharesAmount": "25.724",
-        "stockPriceFinalValue": "40,81",
-        "potencialSharesValue": "1.049.796,44"
+        "stockPriceFinalValue": "40.81",
+        "potencialSharesValue": "1049796.44",
+        "currency":"BRL"
       },
       "fullSimulationResult": {
         "simulationResults": [
@@ -15,12 +16,17 @@
               {
                 "program": "Spot",
                 "planType": "Stock Options",
+                "hasMatching":"false",
                 "startDate": "01-2021",
                 "endDate": "12-2023",
-                "stockPriceAtGrantDate": "30,00",
+                "stockPriceAtGrantDate": "30",
+                "exercisePrice":"15.20",
                 "totalAmountCurrentBase": "750",
+                "investedAmountCurrentBase":"0",
                 "payment": "shares",
+                "hasPerformance":"true",
                 "performance": "100",
+                "currency":"BRL",
                 "resultPerVesting": [
                   {
                     "year": "2021",
@@ -44,12 +50,17 @@
               {
                 "program": "Spot",
                 "planType": "Stock Options",
+                "hasMatching":"false",
                 "startDate": "01-2022",
                 "endDate": "12-2024",
-                "stockPriceAtGrantDate": "32,40",
+                "stockPriceAtGrantDate": "32.40",
+                "exercisePrice":"18.50",
                 "totalAmountCurrentBase": "1000",
+                "investedAmountCurrentBase":"0",
                 "payment": "shares",
+                "hasPerformance":"true",
                 "performance": "120",
+                "currency":"BRL",
                 "resultPerVesting": [
                   {
                     "year": "2022",
@@ -68,12 +79,17 @@
               {
                 "program": "Spot",
                 "planType": "Stock Options",
+                "hasMatching":"false",
                 "startDate": "01-2023",
                 "endDate": "12-2025",
-                "stockPriceAtGrantDate": "34,99",
+                "stockPriceAtGrantDate": "34.99",
+                "exercisePrice":"20.50",
                 "totalAmountCurrentBase": "1500",
+                "investedAmountCurrentBase":"0",
                 "payment": "shares",
+                "hasPerformance":"true",
                 "performance": "150",
+                "currency":"BRL",
                 "resultPerVesting": [
                   {
                     "year": "2023",
@@ -97,12 +113,17 @@
               {
                 "program": "Stock Options",
                 "planType": "Stock Options",
+                "hasMatching":"false",
                 "startDate": "01-2023",
                 "endDate": "12-2025",
-                "stockPriceAtGrantDate": "34,99",
+                "stockPriceAtGrantDate": "34.99",
+                "exercisePrice":"19.20",
                 "totalAmountCurrentBase": "1700",
+                "investedAmountCurrentBase":"0",
                 "payment": "shares",
+                "hasPerformance":"true",
                 "performance": "150",
+                "currency":"BRL",
                 "resultPerVesting": [
                   {
                     "year": "2023",
@@ -121,12 +142,17 @@
               {
                 "program": "Spot",
                 "planType": "Stock Options",
+                "hasMatching":"false",
                 "startDate": "01-2024",
                 "endDate": "12-2026",
-                "stockPriceAtGrantDate": "37,79",
+                "stockPriceAtGrantDate": "37.79",
+                "exercisePrice":"25.90",
                 "totalAmountCurrentBase": "1500",
+                "investedAmountCurrentBase":"0",
                 "payment": "shares",
+                "hasPerformance":"true",
                 "performance": "95",
+                "currency":"BRL",
                 "resultPerVesting": [
                   {
                     "year": "2024",
@@ -150,12 +176,17 @@
               {
                 "program": "Stock Options",
                 "planType": "Stock Options",
+                "hasMatching":"false",
                 "startDate": "01-2025",
                 "endDate": "12-2026",
-                "stockPriceAtGrantDate": "37,79",
+                "stockPriceAtGrantDate": "37.79",
+                "exercisePrice":"29.60",
                 "totalAmountCurrentBase": "1000",
+                "investedAmountCurrentBase":"0",
                 "payment": "shares",
+                "hasPerformance":"true",
                 "performance": "95",
+                "currency":"BRL",
                 "resultPerVesting": [
                   {
                     "year": "2025",
@@ -170,12 +201,17 @@
               {
                 "program": "Spot",
                 "planType": "Stock Options",
+                "hasMatching":"false",
                 "startDate": "01-2025",
                 "endDate": "12-2027",
-                "stockPriceAtGrantDate": "40,81",
+                "stockPriceAtGrantDate": "40.81",
+                "exercisePrice":"30.15",
                 "totalAmountCurrentBase": "1500",
+                "investedAmountCurrentBase":"0",
                 "payment": "shares",
+                "hasPerformance":"true",
                 "performance": "115",
+                "currency":"BRL",
                 "resultPerVesting": [
                   {
                     "year": "2025",
@@ -194,12 +230,17 @@
               {
                 "program": "Stock Options",
                 "planType": "Stock Options",
+                "hasMatching":"false",
                 "startDate": "01-2025",
                 "endDate": "12-2027",
-                "stockPriceAtGrantDate": "40,81",
+                "stockPriceAtGrantDate": "40.81",
+                "exercisePrice":"33.00",
                 "totalAmountCurrentBase": "1700",
+                "investedAmountCurrentBase":"0",
                 "payment": "shares",
+                "hasPerformance":"true",
                 "performance": "115",
+                "currency":"BRL",
                 "resultPerVesting": [
                   {
                     "year": "2025",
@@ -223,12 +264,17 @@
               {
                 "program": "Ações restritas",
                 "planType": "Ações Restritas",
+                "hasMatching":"false",
                 "startDate": "01-2025",
                 "endDate": "12-2027",
                 "stockPriceAtGrantDate": "",
+                "exercisePrice":"0",
                 "totalAmountCurrentBase": "800",
+                "investedAmountCurrentBase":"0",
                 "payment": "shares",
+                "hasPerformance":"true",
                 "performance": "100",
+                "currency":"BRL",
                 "resultPerVesting": [
                   {
                     "year": "2025",
@@ -247,24 +293,27 @@
               {
                 "program": "Phantom Options",
                 "planType": "Phantom Options",
+                "hasMatching":"false",
                 "startDate": "01-2025",
                 "endDate": "12-2027",
-                "stockPriceAtGrantDate": "40,81",
-                "grantedValue": "22.445,50",
+                "stockPriceAtGrantDate": "40.81",
+                "grantedValue": "22445.50",
                 "payment": "money",
+                "hasPerformance":"true",
                 "performance": "115",
+                "currency":"BRL",
                 "resultPerVesting": [
                   {
                     "year": "2025",
-                    "value": "6.121,50"
+                    "value": "6121.50"
                   },
                   {
                     "year": "2026",
-                    "value": "7.468,23"
+                    "value": "7468.23"
                   },
                   {
                     "year": "2027",
-                    "value": "12.243,00"
+                    "value": "12243.00"
                   }
                 ]
               }
@@ -275,37 +324,37 @@
           {
             "year": "2021",
             "amount": "200",
-            "value": "8.162,00"
+            "value": "8162.00"
           },
           {
             "year": "2022",
             "amount": "550",
-            "value": "22.445,50"
+            "value": "22445.50"
           },
           {
             "year": "2023",
             "amount": "2.150",
-            "value": "87.741,50"
+            "value": "87741.50"
           },
           {
             "year": "2024",
             "amount": "3.950",
-            "value": "161.199,50"
+            "value": "161199.50"
           },
           {
             "year": "2025",
             "amount": "5.800",
-            "value": "242.819,50"
+            "value": "242819.50"
           },
           {
             "year": "2026",
             "amount": "7.903",
-            "value": "8.162,00"
+            "value": "8162.00"
           },
           {
             "year": "2027",
             "amount": "4.538",
-            "value": "197.438,78"
+            "value": "197438.78"
           }
         ]
       }
